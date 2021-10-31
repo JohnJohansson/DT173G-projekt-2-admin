@@ -22,7 +22,7 @@ include("includes/header.php");
     </div>
 </div>
 <!-- main end -->
-<?php include("includes/sidebar.php"); ?>
+<?php include("includes/sidebar_empty.php"); ?>
 <?php
 include("includes/footer.php");
 ?>

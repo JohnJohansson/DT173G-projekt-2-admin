@@ -16,6 +16,6 @@ spl_autoload_register(function ($class_name) {
 
 // Database settings
 define("DBHOST", 'localhost'); //host
-define("DBUSER", ''); //name of user
-define("DBPASS", ''); //password 
-define("DBDATABASE", ''); //name of database
+define("DBUSER", 'NyTest'); //name of user
+define("DBPASS", 'pass'); //password 
+define("DBDATABASE", 'portfolio_john'); //name of database
