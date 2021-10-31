@@ -1,12 +1,14 @@
 <!-- Hamburger menu -->
 <nav class="hamburger-wrapper">
-    <div class="toggle" onclick="toggle()">
+    <div class="toggle" onclick="toggle()"></div>
         <i class="fa fa-bars"></i>
         <div id="hamburgerMenuID" class="hamburgerMenu">
+            <ul>
             <li><a href="index.php">Hem</a></li>
             <li><a href="login.php">Login</a></li>
             <li><a href="logout.php">logout</a></li>
             <li><a href="#">Kontakt</a></li>
+            </ul>
         </div>
 </nav>
 <!-- hamburger wrapper end -->

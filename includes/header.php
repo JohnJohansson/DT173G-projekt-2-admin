@@ -17,7 +17,7 @@
         <?php include("navigation.php"); ?>
 
         <!-- header-wrapper end -->
-        <div class="banner"><img src="img/i01.jpg">
+        <div class="banner"><img src="img/i01.jpg" alt="">
             <h1>Kurser</h1>
         </div>
 

@@ -1,7 +1,7 @@
  <!-- a sidbar where you can add api -->
  <div class="sidebar">
         <div class="pic">
-            <img src="img/i02.jpg">
+            <img src="img/i02.jpg" alt="">
         </div>
         <div class="text">
 
